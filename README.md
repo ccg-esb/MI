@@ -27,3 +27,8 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
 
 These notebooks collectively provide a detailed computational exploration of mobile integrons, from regulatory mechanisms to population-level evolution in diverse environments.
 
+## Authors
+
+[@Evolutionary Systems Biology, CCG-UNAM](http://www.penamiller.com/)
+[@Molecular Biology of Adaptation, Universidad Complutense]([https://github.com/ccg-esb-lab](https://ucm.es/mbalab))
+
