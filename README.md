@@ -4,10 +4,10 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
 
 ## Notebooks Overview
 
-1. **MI_1_RegulatoryModel.ipynb**  
+1. [**MI_1_RegulatoryModel.ipynb**](MI_1_RegulatoryModel.ipynb)  
    This notebook introduces the regulatory model of mobile integrons, focusing on the mechanisms controlling cassette shuffling and expression dynamics. It provides a foundation for understanding how integrons contribute to bacterial adaptability.
 
-2. **MI_2_RegulatoryModel_Data.ipynb**  
+2. [**MI_2_RegulatoryModel_Data.ipynb**](MI_2_RegulatoryModel_Data.ipynb)  
    This notebook extends the regulatory model by generating synthetic data representing cassette expression and shuffling dynamics. It provides a basis for parameter calibration and model validation.
 
 3. **MI_3_PopulationModel_Parameters.ipynb**  
