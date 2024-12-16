@@ -5,10 +5,10 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
 ## Notebooks Overview
 
 1. **MI_1_RegulatoryModel.ipynb**  
-   This notebook introduces the regulatory model of mobile integrons, focusing on the SOS response system and its control over cassette shuffling and expression dynamics. It provides a foundation for understanding how integrons respond to antibiotic-induced stress.
+   This notebook introduces the regulatory model of mobile integrons, focusing on the mechanisms controlling cassette shuffling and expression dynamics. It provides a foundation for understanding how integrons contribute to bacterial adaptability.
 
 2. **MI_2_RegulatoryModel_Data.ipynb**  
-   This notebook extends the regulatory model by generating synthetic data representing SOS-induced cassette expression and integration dynamics. It provides a basis for parameter calibration and model validation.
+   This notebook extends the regulatory model by generating synthetic data representing cassette expression and shuffling dynamics. It provides a basis for parameter calibration and model validation.
 
 3. **MI_3_PopulationModel_Parameters.ipynb**  
    This notebook defines key parameters for the population dynamics model, such as growth rates, resource utilization, antibiotic effects, and transition matrices. These parameters serve as inputs for the subsequent simulations.
