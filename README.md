@@ -20,10 +20,10 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
    This notebook analyzes evolutionary paths through genotype space, quantifying accessibility and fitness landscapes. It uses graph-based approaches to evaluate how integron shuffling affects evolutionary trajectories.
 
 6. [**MI_6_PopulationModel_Evo.ipynb**](MI_6_PopulationModel_Evo.ipynb)  
-   This notebook simulates long-term evolutionary dynamics in constant or periodic environments. It evaluates the effects of antibiotic treatments on population adaptation, highlighting the role of mobile integrons in driving diversity.
+   This notebook simulates long-term evolutionary dynamics in constant environments. It evaluates how antibiotic treatments influence population dynamics and genetic diversity associated with mobile integrons.
 
 7. [**MI_7_PopulationModel_FluctuatingEvo.ipynb**](MI_7_PopulationModel_FluctuatingEvo.ipynb)  
-   This notebook investigates evolutionary dynamics under fluctuating selective pressures, such as oscillating antibiotic concentrations. It explores how environmental variability influences genotype stability and adaptive strategies.
+   This notebook investigates evolutionary dynamics under fluctuating selective pressures, such as antibiotic ramps and periodic antibiotic treatments. It explores how environmental variability influences genotype stability and evolutionary trajectories.
 
 
 ## Code
