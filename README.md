@@ -25,7 +25,6 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
 7. [**MI_7_PopulationModel_FluctuatingEvo.ipynb**](MI_7_PopulationModel_FluctuatingEvo.ipynb)  
    This notebook investigates evolutionary dynamics under fluctuating selective pressures, such as oscillating antibiotic concentrations. It explores how environmental variability influences genotype stability and adaptive strategies.
 
-These notebooks collectively provide a detailed computational exploration of mobile integrons, from regulatory mechanisms to population-level evolution in diverse environments.
 
 ## Code
 
