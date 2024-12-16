@@ -29,6 +29,6 @@ These notebooks collectively provide a detailed computational exploration of mob
 
 ## Authors
 
-[@Evolutionary Systems Biology, CCG-UNAM](http://www.penamiller.com/)
+[@Evolutionary Systems Biology, CCG-UNAM](http://www.penamiller.com/) \\
 [@Molecular Biology of Adaptation, Universidad Complutense]([https://github.com/ccg-esb-lab](https://ucm.es/mbalab))
 
