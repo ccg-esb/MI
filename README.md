@@ -34,6 +34,5 @@ The implementation of core simulation functions is provided in [**code/MI_Gilles
 ## Authors
 
 [@Evolutionary Systems Biology, CCG-UNAM](http://www.penamiller.com/) 
-
 [@Molecular Biology of Adaptation, Universidad Complutense](https://ucm.es/mbalab)
 
