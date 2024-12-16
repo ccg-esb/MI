@@ -27,6 +27,10 @@ This repository contains a series of Jupyter notebooks exploring the regulatory 
 
 These notebooks collectively provide a detailed computational exploration of mobile integrons, from regulatory mechanisms to population-level evolution in diverse environments.
 
+## Code
+
+The implementation of core simulation functions is provided in [**code/MI_GillespieModel.py**](code/MI_GillespieModel.py). This script contains the Gillespie algorithm and associated functions used across the notebooks to model the dynamics of bacterial populations.
+
 ## Authors
 
 [@Evolutionary Systems Biology, CCG-UNAM](http://www.penamiller.com/) \\
